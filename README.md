@@ -8,7 +8,7 @@ Very early days but, in the true essence of JFDI, this is the first attempt at d
 
 If you'd like to contribute or find out more, reach out on Twitter.
 
-## Ideas
+### Ideas
 
 * Feed of #JFDI hashtag tweets, photos, videos…
 * To-do app with a different approach to leaving things for later
