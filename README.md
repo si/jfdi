@@ -1,6 +1,6 @@
 # JFDI
 
-Adopting the JFDI mantra in your life.
+_Adopting the JFDI mantra in your life._
 
 A project by [Si](https://twitter.com/Si) following a talk on Beating Imposter Syndrome and a productivity post on getting things done.
 
