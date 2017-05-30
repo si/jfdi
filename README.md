@@ -6,7 +6,7 @@ A project by [Si](https://twitter.com/Si) following a talk on [Beating Imposter 
 
 Very early days but, in the true essence of JFDI, this is the first attempt at doing something and will be an iterative evolution.
 
-If you'd like to contribute or find out more, reach out on Twitter.
+If you'd like to contribute or find out more, reach out to [@Si on Twitter](https://twitter.com/Si) with hashtag `#JFDI`. (Previously, [@FFSJFDIUD](https://twitter.com/ffsjfdiud) was setup but it's a bit excessive on the expletives)
 
 ### Ideas
 
