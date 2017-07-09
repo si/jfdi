@@ -8,7 +8,7 @@ Very early days but, in the true essence of JFDI, this is the first attempt at d
 
 If you'd like to contribute or find out more, reach out to [@Si on Twitter](https://twitter.com/Si) with hashtag `#JFDI`. (Previously, [@FFSJFDIUD](https://twitter.com/ffsjfdiud) was setup but it's a bit excessive on the expletives)
 
-### Ideas
+## Ideas
 
 * Feed of #JFDI hashtag tweets, photos, videos…
 * To-do app with a different approach to leaving things for later
